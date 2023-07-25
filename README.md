@@ -1,4 +1,4 @@
-# 🛠  RStenzhorn 🛠
+# ⚙️ RStenzhorn ⚙️
 **`Software-Developer`**
 
 ---
@@ -53,7 +53,7 @@
 <br />
 
 ---
-### ☕ Interested in
+### 🛠 Interested in
 <img align="left" alt="GraphQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 <img align="left" alt="Gradle" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Gradle" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" />
