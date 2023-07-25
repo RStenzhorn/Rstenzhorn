@@ -59,9 +59,3 @@
 <img align="left" alt="Gradle" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" />
 
 <br />
-
----
-## ✅ Contact
-
-
-
