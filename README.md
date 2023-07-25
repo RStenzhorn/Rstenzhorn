@@ -49,3 +49,13 @@
 <img align="left" alt="GraphQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 <img align="left" alt="Gradle" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Gradle" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" />
+
+
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=rstenzhorn&show_icons=true&theme=chartreuse-dark)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Rstenzhorn&theme=chartreuse-dark&border_radius=4.5) -->
+
+#
