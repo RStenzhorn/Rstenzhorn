@@ -1,4 +1,4 @@
-# ⚙️ RStenzhorn ⚙️
+# ⚙️ RStenzhorn
 **`Software-Developer`**
 
 ---
