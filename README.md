@@ -1,6 +1,7 @@
 # ⚙️ RStenzhorn
-**`Software-Developer`**
-
+## ⭐ About me
+- 🇩🇪
+-🎓
 ---
 
 ## ⭐ Languages
