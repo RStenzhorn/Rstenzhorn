@@ -1,10 +1,10 @@
 # ⚙️ RStenzhorn
 
 ## 🚀 About me
-🚀 Robert <br />
-🚀 27 y/o <br />
-🚀 Software Developer <br />
-🚀 Germany <br />
+- 🚀 Robert <br />
+- 🚀 27 y/o <br />
+- 🚀 Software Developer <br />
+- 🚀 Germany <br />
 
 ## Contacts
 
