@@ -1,7 +1,13 @@
 # ⚙️ RStenzhorn
-## ⭐ About me
-- 🇩🇪
--🎓
+
+## 🚀 About me
+- Robert
+- 27 y/o
+- Software Developer
+- 🇩🇪 Germany
+
+## Contacts
+
 ---
 
 ## ⭐ Languages
