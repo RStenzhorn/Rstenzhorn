@@ -1,5 +1,3 @@
-# 🖥️ RStenzhorn
-
 ## 📌 About me
 - Robert 🚀 <br />
 - 27 y/o 🚀 <br />
