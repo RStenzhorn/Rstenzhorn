@@ -39,7 +39,7 @@
 <br />
 
 ---
-## 💾 Databases
+## [](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Applications-database.svg/2048px-Applications-database.svg.png) Databases
 
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
