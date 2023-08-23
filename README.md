@@ -1,6 +1,5 @@
 ## 📌 About me
 - Robert 🚀 <br />
-- 27 y/o 🚀 <br />
 - Germany 🇩🇪 <br />
 - Gamer 🎮 <br />
 - Software Developer 👨‍💻 <br />
