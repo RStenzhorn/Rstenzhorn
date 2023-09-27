@@ -1,5 +1,4 @@
 ## 📌 About me
-- Robert 🚀 <br />
 - Germany 🇩🇪 <br />
 - Gamer 🎮 <br />
 - Software Developer 👨‍💻 <br />
