@@ -51,6 +51,6 @@ Software Developer 👨‍💻 <br />
 <img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
 <img align="left" alt="DataGrid" width="30px" style="padding-right:10px;" src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" />
 <img align="left" alt="CLion" width="30px" style="padding-right:10px;" src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" />
-<img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" title="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 
