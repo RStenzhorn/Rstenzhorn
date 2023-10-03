@@ -41,6 +41,7 @@ Software Developer 👨‍💻 <br />
 <img align="left" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" title="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" title="Neo4J" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />
+<img align="left" title="RabbitMQ" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/rabbitmq_logo_icon_170810.png" />
 <br />
 
 ---
