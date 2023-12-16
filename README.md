@@ -1,6 +1,5 @@
 ## 📌 About me
 Germany 🇩🇪 <br />
-Gamer 🎮 <br />
 Software Developer 👨‍💻 <br />
 
 
