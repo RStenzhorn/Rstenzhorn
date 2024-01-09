@@ -24,12 +24,6 @@ Software Developer 👨‍💻 <br />
 <br />
 
 ---
-## 💻 Frameworks
-
-
-<br />
-
----
 ## 💻 OPS
 <img align="left" title="Debian" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 <img align="left" title="Ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
